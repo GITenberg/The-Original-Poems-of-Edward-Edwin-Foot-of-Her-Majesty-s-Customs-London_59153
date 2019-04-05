@@ -1,11 +1,16 @@
 _repo: The-Original-Poems-of-Edward-Edwin-Foot-of-Her-Majesty-s-Customs-London_59153
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59153-h/images/cover.jpg
 creator:
   author:
     agent_name: Foot, Edward Edwin
     gutenberg_agent_id: '50321'
     url: http://www.gutenberg.org/2009/agents/50321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59153#The-Original-Poems-of-Edward-Edwin-Foot-of-Her-Majesty-s-Customs-London
 gutenberg_issued: '2019-03-29'
 gutenberg_type: Text
 identifiers:
